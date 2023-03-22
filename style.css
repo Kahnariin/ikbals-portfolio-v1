@@ -112,6 +112,12 @@ a:hover{
     cursor: pointer;
 }
 
+.email{
+    color: rgb(190, 49, 68);
+    font-size: 12px;
+    background-color: inherit;
+}
+
 @media only screen and (max-width:900px){
     .page-wrapper, .side2, .side1{
         width: 90%;
